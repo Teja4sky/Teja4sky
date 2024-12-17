@@ -3,12 +3,7 @@
 
 
 
-          https://github.com/user-attachments/assets/bbe6aa8b-58fb-401d-b059-8809c0c771e7
-
-
-
-
-
+![Animation - 1734438945740](https://github.com/user-attachments/assets/870c620d-5d18-4449-9d2a-c6d5900a543b)
 
 
 
