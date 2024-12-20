@@ -79,9 +79,7 @@ I am a passionate **Computer Science Engineer** and a tech enthusiast exploring 
 ---
 
 ## 📫 **Connect with Me**
-- **GitHub**: [github.com/yourusername](#) *(Replace with your username)*
-- **LinkedIn**: [linkedin.com/in/yourprofile](#)
-- **Email**: [your.email@example.com](#)
+- **Email**: [chtejasurya4@gmail.com](#)
 
 ---
 
