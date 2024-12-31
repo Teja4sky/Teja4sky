@@ -74,9 +74,10 @@ I am a passionate **Computer Science Engineer** and a tech enthusiast exploring 
 ## 💼 **Certifications**
 - **Cybersecurity** and **Cloud Computing** (11 certifications total)
 - **Virtual Internships** in Cybersecurity
+-  **Virtual Internships** in Ethical Hacking
 - Certificates in **Computer Networks**
 - Certificates in **Ethical hacking**
-- Certificates in **OperatingSystem**
+- Certificates in **Operating System**
 
 ---
 
