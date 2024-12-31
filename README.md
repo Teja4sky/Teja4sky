@@ -1,14 +1,15 @@
+# 👋 Hi, I'm CH Teja Surya 
 
 
 
 
-   | ![Animation - 1734438945740](https://github.com/user-attachments/assets/870c620d-5d18-4449-9d2a-c6d5900a543b) |
+  ===================================== ![Animation - 1734438945740](https://github.com/user-attachments/assets/870c620d-5d18-4449-9d2a-c6d5900a543b) ======================================
 
 
 
 
 
-# 👋 Hi, I'm CH Teja Surya!
+
 
 ## 🧑‍💻 **About Me**
 
