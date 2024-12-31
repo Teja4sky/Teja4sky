@@ -41,7 +41,7 @@ I am a passionate **Computer Science Engineer** and a tech enthusiast exploring 
 - JavaScript (Frontend basics)
 
 ### **Operating Systems**:
-- Linux (Kali Linux, Ubuntu)
+- Linux (Kali Linux, Ubuntu, Tail , Qubes )
 
 ### **IoT**:
 - Expert in IoT device setup and integration
@@ -51,7 +51,10 @@ I am a passionate **Computer Science Engineer** and a tech enthusiast exploring 
 - Git & GitHub
 - Arduino IDE
 - Visual Studio Code
-
+- Blender
+- Andriod Studio
+- TOR
+  
 ---
 
 ## 🌟 **Experience and Projects**
@@ -63,10 +66,7 @@ I am a passionate **Computer Science Engineer** and a tech enthusiast exploring 
    - Built a low-cost air quality monitoring system with **MQ135** and **DHT11** sensors.
    - Implemented a solar panel and 3000mAh battery for continuous operation.
 
-3. **Secure Communication Platform**  
-   - Developed an encrypted messaging system focusing on **secure communication** using usernames instead of emails.
-
-4. **Caesar Cipher Encryption & Decryption Tool**  
+3. **Caesar Cipher Encryption & Decryption Tool**  
    - Created a simple cryptography tool using **HTML, CSS, and JavaScript**.
 
 ---
@@ -75,6 +75,8 @@ I am a passionate **Computer Science Engineer** and a tech enthusiast exploring 
 - **Cybersecurity** and **Cloud Computing** (11 certifications total)
 - **Virtual Internships** in Cybersecurity
 - Certificates in **Computer Networks**
+- Certificates in **Ethical hacking**
+- Certificates in **OperatingSystem**
 
 ---
 
