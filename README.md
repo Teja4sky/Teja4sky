@@ -1,4 +1,4 @@
-# 👋 Hi, I'm CH Teja Surya 
+# 👋 Hi, I'm Ch Teja Surya 
 
 
 
