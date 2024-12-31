@@ -36,16 +36,18 @@ I am a passionate **Computer Science Engineer** and a tech enthusiast exploring 
 - Bash
 
 ### **Web Development**:
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript (Frontend basics)
 
 ### **Operating Systems**:
 - Linux (Kali Linux, Ubuntu, Tail , Qubes )
+- Windows
+- Unix
 
 ### **IoT**:
 - Expert in IoT device setup and integration
-- Worked extensively with **ESP32**, sensors, and real-time data analysis
+- Worked extensively with **ESP32**, sensors, Cloud Integration, and real-time data analysis
 
 ### **Other Tools**:
 - Git & GitHub
@@ -54,6 +56,7 @@ I am a passionate **Computer Science Engineer** and a tech enthusiast exploring 
 - Blender
 - Andriod Studio
 - TOR
+- Figma
   
 ---
 
